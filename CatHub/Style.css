@@ -58,15 +58,15 @@ p{
 }
 .col-2 img{
 	min-width:20%;
-	padding:109px 15 ;
+	padding:80px 15 ;
 	min-height:10%;
 }
 .col-2 h1{
 	text-align:center;
 	font-size: 50px;
 	line-height: 60px;
-	color:#ff0000;
-	font-family: Luminar, fantasy, sans-serif;
+	color:#000000;
+	font-family: 'Poppins', sans-serif;
 	margin: 2px 0;
 }
 .col-2 p1{
@@ -167,12 +167,12 @@ p{
 .col-a h1{
 	font-size: 50px;
 	line-height: 60px;
-	color:#ff0000;
-	font-family: Luminar, fantasy, sans-serif;
+	color:#000000;
+	font-family: 'Poppins', sans-serif;
 	margin: 25px 0;
 }
 .col-a p1{
-	color:#191970;
+	color:#000000;
 	padding: 0px;
 	text-size:7px;
 }
@@ -260,4 +260,9 @@ p{
 
 .col-blank{
 	padding: 100px
+}
+
+nav ul li a {
+    font-family: 'Poppins', sans-serif;
+    /* Add additional styles if needed */
 }
